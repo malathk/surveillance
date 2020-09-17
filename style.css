@@ -1,0 +1,38 @@
+/* #phones{
+    position: relative;
+	width: 100px;
+	height: 100px;
+	
+} */
+
+.iphone8 {
+
+z-index: 10;
+position: absolute;
+	left: 50%;
+	top: 100px;
+    /* bottom: 50px; */
+   
+
+
+}
+.iphone10 {
+    position: absolute;
+    z-index: 50;
+    left: 50%;
+    top: 100px;
+    
+}
+#lg{
+    position: absolute;
+    z-index: 10;
+    left: 50%;
+    top: 100px;
+}
+#nokia{
+    position: absolute;
+    z-index: 1;
+    left: 50%;
+  top: 100px;
+  
+}
